@@ -23,3 +23,36 @@ p {
 h1, h2, h3, h4, h5, h6 {
     font-family: Anton;
 }
+
+.icon1 {
+    display: flex;
+    height: 80px;
+    width: 80px;
+    background-color: var(--burnt-orange);
+    border-radius: 9999px;
+    border: 6px white solid;
+}
+.icon2 {
+    display:flex;
+    height: 80px;
+    width: 80px;
+    background-color: var(--mustard-yellow);
+    border-radius: 9999px;
+    border: 6px white solid;
+}
+.icon3 {
+    display-flex;
+    height: 80px;
+    width: 80px;
+    background-color: var(--grass-green);
+    border-radius: 9999px;
+    border: 6px white solid;
+}
+.icon4 {
+    display-flex;
+    height: 80px;
+    width: 80px;
+    background-color: var(--teal-blue);
+    border-radius: 9999px;
+    border: 6px white solid;
+}
