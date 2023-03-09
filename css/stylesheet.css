@@ -1,1 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&display=swap');
+
+:root {
+    --burnt-orange: #E6563B;
+    --mustard-yellow: #EB9D3A;
+    --grass-green: #7CB06C;
+    --teal-blue: #00ABA9;
+    --back-ground: #F0F0F0;
+    --border-color: #E6E6E6;
+    --letter-color: #212529;
+    --white: #FFFFFF;
+}
+
+body {
+    background-color: var(--back-ground);
+    color: var(--letter-color);
+}
