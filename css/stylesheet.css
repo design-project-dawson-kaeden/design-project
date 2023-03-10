@@ -11,6 +11,16 @@
     --white: #FFFFFF;
 }
 
+nav {
+    background-color: var(--back-ground);
+    border: none;
+}
+
+.backit {
+    border-top: none;
+    background-color: var(--back-ground);
+}
+
 body {
     background-color: var(--back-ground);
     color: var(--letter-color);
@@ -31,6 +41,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--burnt-orange);
     border-radius: 9999px;
     border: 6px white solid;
+    font-family: Anton;
 }
 .icon2 {
     display:flex;
@@ -39,6 +50,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--mustard-yellow);
     border-radius: 9999px;
     border: 6px white solid;
+    font-family: Anton;
 }
 .icon3 {
     display: flex;
@@ -47,6 +59,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--grass-green);
     border-radius: 9999px;
     border: 6px white solid;
+    font-family: Anton;
 }
 .icon4 {
     display: flex;
@@ -55,6 +68,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--teal-blue);
     border-radius: 9999px;
     border: 6px white solid;
+    font-family: Anton;
 }
 
 .size {
