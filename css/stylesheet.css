@@ -91,8 +91,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .icon1.smol {
     display: flex;
-    height: 25px;
-    min-width: 25px;
+    height: 28px;
+    min-width: 28px;
     background-color: var(--burnt-orange);
     border-radius: 9999px;
     border: 6px white solid;
@@ -100,8 +100,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .icon2.smol {
     display:flex;
-    height: 25px;
-    min-width: 25px;
+    height: 28px;
+    min-width: 28px;
     background-color: var(--mustard-yellow);
     border-radius: 9999px;
     border: 6px white solid;
@@ -109,8 +109,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .icon3.smol {
     display: flex;
-    height: 25px;
-    min-width: 25px;
+    height: 28px;
+    min-width: 28px;
     background-color: var(--grass-green);
     border-radius: 9999px;
     border: 6px white solid;
@@ -118,8 +118,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .icon4.smol {
     display: flex;
-    height: 25px;
-    min-width: 25px;
+    height: 28px;
+    min-width: 28px;
     background-color: var(--teal-blue);
     border-radius: 9999px;
     border: 6px white solid;
